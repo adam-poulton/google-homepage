@@ -172,7 +172,7 @@ input[type="submit"]:focus {
 }
 
 #viewport{
-    min-height: 100%;
+    min-height: 80%;
     position: relative;
     width: 100%;
 }
@@ -183,7 +183,7 @@ input[type="submit"]:focus {
 
 .container {
     text-align: center;
-    height: 100%;
+    height: 80%;
 
     /* box-sizing: border-box;
     border: 1px solid black; */
@@ -352,7 +352,7 @@ input[type="submit"]:focus {
     opacity: .85;
 }
 
-#sign-in-button {
+#header-right #sign-in-button {
     color: #fff !important;
     cursor: default;
     text-decoration: none;
