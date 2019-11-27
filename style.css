@@ -331,7 +331,7 @@ input[type="submit"]:focus {
     margin-left: 15px;
 }
 
-#apps-icon {
+#header-right #apps-icon {
     background-position: -132px -38px;
     opacity: .55;
     background-image: url(i1_1967ca6a.png);
@@ -348,7 +348,7 @@ input[type="submit"]:focus {
     width: 30px;
 }
 
-#apps-icon:hover{
+#header-right #apps-icon:hover{
     opacity: .85;
 }
 
@@ -366,6 +366,7 @@ input[type="submit"]:focus {
     padding: 0 12px;
     border-radius: 2px;
     margin-left: 15px;
+    opacity: 1;
 }
 
 #header-right #sign-in-button:hover{
